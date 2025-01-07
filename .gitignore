@@ -1,3 +1,5 @@
 pkg/*
 *.gem
 Gemfile.lock
+.idea
+pkg
